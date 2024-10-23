@@ -1,3 +1,4 @@
+#week4assignment
 class Person:
     def __init__(self, name, age, gender):
         self.name = name
@@ -12,3 +13,4 @@ person1 = Person("Siana", 22, "Female")
 
 # Calling the introduce method
 person1.introduce()
+
