@@ -1,0 +1,6 @@
+Hello, this is my first line.
+The answer to life, the universe, and everything is 42.
+Python is great for file handling!
+Appending a new line to the file.
+Another interesting fact: The sun is 93 million miles away.
+Finally, let's add one more line.
